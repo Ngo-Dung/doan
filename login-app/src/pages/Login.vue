@@ -1,6 +1,8 @@
-<script></script>
-
 <template>
+  <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
   <div id="home">
     <div id="login-form">
       <div class="login-form-header">
@@ -58,6 +60,7 @@
 </template>
 
 <style>
+
 body {
   background: #f0f2f5;
   display: flex;
